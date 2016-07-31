@@ -1,0 +1,28 @@
+/*Settings page styles.*/
+#custom-type-list-women, #custom-type-list-men { margin: 20px 0; }
+#custom-type-list-women li, #custom-type-list-men li  {
+	border: 1px solid #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color:#f7f7f7;
+	width: 150px;
+	padding: 10px;
+	cursor: move;
+	margin:5px 10px;
+	float: left;
+}
+#loading-animation-womens, #loading-animation-mens { 
+	display: none; 
+	margin-left:5px;
+	
+}
+
+.heels-container {
+	width:600px;
+	margin-top:20px;
+}
+
+.mens, .womens {
+	margin-top:20px;
+}
